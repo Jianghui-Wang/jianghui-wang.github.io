@@ -3,6 +3,7 @@
 
 ### TODO List
 
-- [] news: false  
-- [] selected_papers: false 
-- [] social: false  
+- [X] init
+- [ ] news
+- [ ] selected_papers
+- [ ] social
