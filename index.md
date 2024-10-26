@@ -23,9 +23,9 @@ I earned my Bachelor’s degree from the Department of Computer Science and Tech
 
 My research interests focus on the intersection of pretraining and vision-language modeling, with current themes including:
 
-**Robustness Pretraining**: Developing models capable of generalizing across diverse and challenging environments
+**Robustness Pretraining**: Developing models capable of generalizing across diverse and challenging environments.
 
-**Video Understanding**: Advancing general vision-language (VL) understanding and explainable VL modeling
+**Video Understanding**: Enhancing comprehensive video understanding, with a particular focus on video streaming and long-format videos.
 
 
 <!-- I am currently seeking a Ph.D. position to further pursue these research interests.-->
