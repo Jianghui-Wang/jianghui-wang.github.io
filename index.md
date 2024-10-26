@@ -24,4 +24,4 @@ My research interests focus on the intersection of pretraining and vision-langua
 **Video Understanding**: Advancing general vision-language (VL) understanding and explainable VL modeling
 
 
-< --! I am currently seeking a Ph.D. position to further pursue these research interests.-->
+<--! I am currently seeking a Ph.D. position to further pursue these research interests.-->
