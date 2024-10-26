@@ -2,26 +2,24 @@
 layout: about
 title: about
 permalink: /
-description: Research Scientist at BIGAI
+description: Nanjing University Graduate
 
 profile:
   align: right
-  image: zilong.JPG
+  image: thumbnail.JPG
   email: >
-    <p>Email: z.zheng<code>[at]</code>ucla<code>[dot]</code>edu</p>
+    <p>Email: jianghuiwang.ai<code>[at]</code>gmail<code>[dot]</code>com</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 
 ---
-I am a research scientist and team lead at [Beijing Institute for General Artificical Intelligence (BIGAI)](https://bigai.ai/).
 
-I received my Ph.D. degree from the Department of Computer Science at [University of California, Los Angeles (UCLA)](https://www.cs.ucla.edu/), under the supervision of [Prof. Song-chun Zhu](http://www.stat.ucla.edu/~sczhu/). Before that, I obtained bachelor degree of Computer Science at [University of Minnesota](https://twin-cities.umn.edu/). I also received B.E. degree from University of Electronic Science and Technology of China (UESTC). 
+I received my 本科 from the Department of Computer Science and Technology at [Nanjing University](https://www.nju.edu.cn/), under the supervision of [Prof. Yang Yu](https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK).
 
-My research interests lie in the intersection of statistical machine learning, vision-language modeling and cognition. Current research themes include:
-- **Generative Modeling:** Statistical generative modeling (energy-based models) for vision and language.
-- **Multimodal Understanding:** General vision-language (VL) understanding and explainable VL modeling.
-- **Cognitive Language Reasoning:** Understand and reason underlying information in language and human conversations.
+My research interests lie in the intersection of pretraining, vision-language modeling. Current research themes include:
+- **Robustness Pretraining** Developing models that can generalize across diverse and challenging environments
+- **Video Understanding:** General vision-language (VL) understanding and explainable VL modeling.
 
-I am always looking for self-motivated **interns** and long-term **collaborators**. Please contact me if you have excellent background or share similar research interests with me.
+I am looking for PhD position now.
