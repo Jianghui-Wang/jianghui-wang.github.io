@@ -6,7 +6,7 @@ description: Nanjing University Graduate
 
 profile:
   align: right
-  image: thumbnail.JPG
+  image: thumbnail.PNG
   email: >
     <p>Email: jianghuiwang.ai<code>[at]</code>gmail<code>[dot]</code>com</p>
 
@@ -16,10 +16,9 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-I received my 本科 from the Department of Computer Science and Technology at [Nanjing University](https://www.nju.edu.cn/), under the supervision of [Prof. Yang Yu](https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK).
+I earned my Bachelor’s degree from the Department of Computer Science and Technology at [Nanjing University](https://www.nju.edu.cn/), where I had the privilege of being supervised by [Prof. Yang Yu](https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK)..
 
-My research interests lie in the intersection of pretraining, vision-language modeling. Current research themes include:
-- **Robustness Pretraining** Developing models that can generalize across diverse and challenging environments
-- **Video Understanding:** General vision-language (VL) understanding and explainable VL modeling.
+My research interests focus on the intersection of pretraining and vision-language modeling, with current themes including:
 
-I am looking for PhD position now.
+**Robustness Pretraining**: Developing models capable of generalizing across diverse and challenging environments
+**Video Understanding**: Advancing general vision-language (VL) understanding and explainable VL modeling
