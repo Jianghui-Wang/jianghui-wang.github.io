@@ -8,3 +8,4 @@ This is Jianghui Wang's personal web page. It is built with [Hugo](https://gohug
 - [ ] news
 - [ ] selected_papers
 - [ ] social
+- [ ] contact
