@@ -17,6 +17,8 @@ service: false
 
 ---
 
+Hi, my name is Jianghui(Prounced as: Jyang-Hway)
+
 I earned my Bachelor’s degree from the Department of Computer Science and Technology at [Nanjing University](https://www.nju.edu.cn/), where I had the privilege of being supervised by [Prof. Yang Yu](https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK).
 
 <!-- add other reaserch experiment here-->
