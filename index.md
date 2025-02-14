@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Nanjing University Graduate
+description: MS/PhD student at KAUST
 
 profile:
   align: right
@@ -17,7 +17,7 @@ service: false
 
 ---
 
-Hi, my name is Jianghui(Prounced as: Jyang-Hway)
+My name is Jianghui (prounced: *Jyang-Hway*). I am a MS/PhD Student in [King Abdullah University of Science and Technology](https://www.kaust.edu.sa), co-advised by [Prof. Francesco Orabona](https://francesco.orabona.com/) and [Prof. Marco Canini](https://mcanini.github.io/).
 
 I earned my Bachelor’s degree from the Department of Computer Science and Technology at [Nanjing University](https://www.nju.edu.cn/), where I had the privilege of being supervised by [Prof. Yang Yu](https://www.wolai.com/eyounx/dtR1MTyRXS5tP5Cex4KtdK).
 
