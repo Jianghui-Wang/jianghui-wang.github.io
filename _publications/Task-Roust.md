@@ -9,7 +9,7 @@ equalauthor: Jianghui Wang, Yang Chen
 correspondance: Cong Fang, Zhouchen Lin
 website: 
 abbr: NeurIPS'23
-Booktitle: Advances in Neural Information Processing Systems 2023
+booktitle: Advances in Neural Information Processing Systems 2023
 supp: 
 video: 
 code: 
