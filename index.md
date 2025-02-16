@@ -6,7 +6,7 @@ description: MS/PhD student at KAUST
 
 profile:
   align: right
-  image: thumbnail.png
+  image: KAUST-library.png
   email: >
     <p>Email: jianghuiwang.ai<code>[at]</code>gmail<code>[dot]</code>com</p>
 
