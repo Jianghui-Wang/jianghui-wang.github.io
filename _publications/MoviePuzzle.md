@@ -26,5 +26,5 @@ bibtex: >
       archivePrefix={arXiv},
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2306.02252}, 
-}
+    }
 ---
