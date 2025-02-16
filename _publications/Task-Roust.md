@@ -4,7 +4,7 @@ type: inproceedings
 key: 
 title: >
     Task-Robust Pre-Training for Worst-Case Downstream Adaptation
-author: Jianghui Wang, Yang Chen, Xingyu Xie, Cong Fang, Zhouchen Lin
+author: Wang, Jianghui and Chen, Yang and Xie, Xingyu and Fang, Cong and Lin, Zhouchen
 equalauthor: Jianghui Wang, Yang Chen
 correspondance: Cong Fang, Zhouchen Lin
 website: 

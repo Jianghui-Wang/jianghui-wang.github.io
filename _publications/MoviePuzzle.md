@@ -1,14 +1,14 @@
 ---
 layout: pub
 type: article
-key: wang2023moviepuzzle
+key: 
 title: >
     MoviePuzzle: Visual Narrative Reasoning through Multimodal Order Learning
-author: Jianghui Wang, Yuxuan Wang, Dongyan Zhao, Zilong Zheng
-equalauthor: Jianghui Wang, Yuxuan Wang
-correspondance: Zilong Zheng
+author: Wang, Jianghui and Wang, Yuxuan and Zhao, Dongyan and Zheng, Zilong
+equalauthor: Wang, Jianghui and Wang, Yuxuan
+correspondance: Zheng, Zilong
 website: https://moviepuzzle.github.io/
-abbr: 
+abbr: ArXiv
 journal: ArXiv
 supp: 
 video: 
