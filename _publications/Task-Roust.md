@@ -8,8 +8,8 @@ author: Jianghui Wang, Yang Chen, Xingyu Xie, Cong Fang, Zhouchen Lin
 equalauthor: Jianghui Wang, Yang Chen
 correspondance: Cong Fang, Zhouchen Lin
 website: 
-abbr: 
-journal: NeurIPS
+abbr: NeurIPS'23
+Booktitle: Advances in Neural Information Processing Systems 2023
 supp: 
 video: 
 code: 
