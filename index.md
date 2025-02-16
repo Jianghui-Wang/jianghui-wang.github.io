@@ -11,7 +11,7 @@ profile:
     <p>Email: jianghuiwang.ai<code>[at]</code>gmail<code>[dot]</code>com</p>
 
 news: false  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: True # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 service: false
 
@@ -28,7 +28,3 @@ My research interests focus on the intersection of pretraining and vision-langua
 **Robustness Pretraining**: Developing models capable of generalizing across diverse and challenging environments.
 
 **Video Understanding**: Enhancing comprehensive video understanding, with a particular focus on video streaming and long-format videos.
-
-
-<!-- I am currently seeking a Ph.D. position to further pursue these research interests.-->
-
