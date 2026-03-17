@@ -5,8 +5,8 @@ key:
 title: >
     Task-Robust Pre-Training for Worst-Case Downstream Adaptation
 author: Wang, Jianghui and Chen, Yang and Xie, Xingyu and Fang, Cong and Lin, Zhouchen
-equalauthor: Jianghui Wang, Yang Chen
-correspondance: Cong Fang, Zhouchen Lin
+equalauthor: Wang, Jianghui and Chen, Yang
+correspondance: Fang, Cong and Lin, Zhouchen
 website: 
 abbr: NeurIPS'23
 booktitle: Advances in Neural Information Processing Systems 2023

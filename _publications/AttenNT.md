@@ -4,9 +4,9 @@ type: inproceedings
 key: 
 title: >
     NONPARAMETRIC TEACHING OF ATTENTION LEARNERS
-author: Chen, Zhang and Jianghui, Wang and Bingyang, Cheng1 and Zhongtao, Chen and Wendong, Xu and Cong, Wang and Marco, Canini and Francesco, Orabona and Yik-Chung, Wu and Ngai, Wong 
-equalauthor: Chen Zhang, Jianghui Wang
-correspondance: Cong Fang, Zhouchen Lin
+author: Zhang, Chen and Wang, Jianghui and Cheng, Bingyang and Chen, Zhongtao and Xu, Wendong and Wang, Cong and Canini, Marco and Orabona, Francesco and Wu, Yik-Chung and Wong, Ngai
+equalauthor: Zhang, Chen and Wang, Jianghui
+correspondance: Zhang, Chen and Wang, Jianghui
 website: 
 abbr: ICLR'26
 booktitle: International Conference on Learning Representations（ICLR）
