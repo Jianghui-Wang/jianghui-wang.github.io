@@ -9,7 +9,7 @@ equalauthor: Zhang, Chen and Wang, Jianghui
 correspondance: Zhang, Chen and Wang, Jianghui
 website:
 abbr: ICLR'26
-booktitle: International Conference on Learning Representations（ICLR）
+booktitle: International Conference on Learning Representations (ICLR)
 supp: 
 video: 
 code: https://github.com/Jianghui-Wang/AttenNT
