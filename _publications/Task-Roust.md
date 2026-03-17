@@ -1,7 +1,7 @@
 ---
 layout: pub
 type: inproceedings
-key: 
+key: vstar
 title: >
     Task-Robust Pre-Training for Worst-Case Downstream Adaptation
 author: Wang, Jianghui and Chen, Yang and Xie, Xingyu and Fang, Cong and Lin, Zhouchen

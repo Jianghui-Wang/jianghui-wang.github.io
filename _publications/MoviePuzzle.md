@@ -1,7 +1,7 @@
 ---
 layout: pub
 type: article
-key: 
+key: vstar
 title: >
     MoviePuzzle: Visual Narrative Reasoning through Multimodal Order Learning
 author: Wang, Jianghui and Wang, Yuxuan and Zhao, Dongyan and Zheng, Zilong

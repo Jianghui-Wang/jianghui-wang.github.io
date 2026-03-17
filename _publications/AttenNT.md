@@ -7,12 +7,12 @@ title: >
 author: Zhang, Chen and Wang, Jianghui and Cheng, Bingyang and Chen, Zhongtao and Xu, Wendong and Wang, Cong and Canini, Marco and Orabona, Francesco and Wu, Yik-Chung and Wong, Ngai
 equalauthor: Zhang, Chen and Wang, Jianghui
 correspondance: Zhang, Chen and Wang, Jianghui
-website: 
+website:
 abbr: ICLR'26
 booktitle: International Conference on Learning Representations（ICLR）
 supp: 
 video: 
-code: 
+code: https://github.com/Jianghui-Wang/AttenNT
 year: 2026
 sticky: true
 abstract: >
